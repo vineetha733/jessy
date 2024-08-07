@@ -1,0 +1,77 @@
+!
+    <style>
+        #a{
+            color: aqua;
+            background-color: blue;
+        }
+        <h1>
+            {
+                color: blue;
+                background-color: black;
+            }
+        <h2>
+           {
+            color: black;
+            background-color: aqua;
+           }
+        
+        .a{
+            color:black;
+            
+        }
+        .b{
+            color:coral;
+        }
+        .c{
+            color:blueviolet;
+        
+        }
+        .d{
+            color:chartreuse;
+        
+        }
+        .e{
+            color:crimson;
+            
+        }
+        .f{
+            color:blue;
+            
+        }
+        .g{
+            color:darkolivegreen;
+            
+        }
+        .h{
+            color:cornflowerblue;
+        
+        }
+        .i{
+            color:darkseagreen
+        }
+        .j{
+            color:darkcyan;
+            
+        }
+        .k{
+            color:darkslategrey;
+
+        }
+        .l{
+            color:hotpink;
+        
+        }
+        .m{
+            color:darkgoldenrod;
+            
+        }
+        .n{
+            color:firebrick;
+            
+        }
+        .o{
+            color:dodgerblue;
+        
+        }
+
+        
